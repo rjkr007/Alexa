@@ -1,0 +1,33 @@
+@font-face { font-family: Simplifica; src: url('SIMPLIFICA\ Typeface.ttf'); } 
+
+h2{
+    font-family: simplifica;
+}
+
+.red{
+    color: red;
+    font-size: 30px;
+}
+
+
+
+.dot4 > img {
+        float: left;
+        width: 500px;
+        height: 500px;
+        margin-right: 100px;
+        margin-left: 100px;
+        margin-top: 10px;
+}
+
+ img.buy {
+      width: 120px;
+      height: 100px;
+      margin-left: 100px;
+
+}    
+
+ img.addtocart {
+      width: 100px;
+      height: 100px;
+ }
