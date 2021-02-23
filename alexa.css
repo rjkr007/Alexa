@@ -1,5 +1,9 @@
 @font-face { font-family: Simplifica; src: url('SIMPLIFICA\ Typeface.ttf'); } 
 
+body {
+    background-color: rgb(226, 250, 250);
+}
+
 h2{
     font-family: simplifica;
 }
@@ -24,10 +28,20 @@ h2{
       width: 120px;
       height: 100px;
       margin-left: 100px;
+      border-radius: 15px;
 
 }    
 
  img.addtocart {
       width: 100px;
       height: 100px;
+       border-radius: 15px;
  }
+
+ footer{
+     margin-top: 10rem;
+    font-family: Verdana;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
